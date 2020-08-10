@@ -16,11 +16,11 @@ public class ConnectionUtil {
 	private static ConnectionUtil cu;
 	
 	// add your jdbc url
-	public static final String URL = "";
+	public static final String URL = "jdbc:postgresql://revature-07132020.c2v6mtls3aqi.us-east-1.rds.amazonaws.com/postgres";
 	// add your jdbc username
-	public static final String USERNAME = "";
+	public static final String USERNAME = "ctorre1992";
 	// add your jdbc password
-	public static final String PASSWORD = "";
+	public static final String PASSWORD = "Deb8Database";
 	// name of the created stored procedure in tier 3
 	public static final String TIER_3_PROCEDURE_NAME = "";
 	// name of the created sequence in tier 3
