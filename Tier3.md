@@ -22,3 +22,4 @@
 
  - Create a table structure using the provided ERD, ensure that the ability for auto-incrementing IDs
     - Value: 30 points
+2
