@@ -1,0 +1,1 @@
+insert into app_user VALUES(24, 'testUser', 'password', 'testFirst', 'testLast', (select role_id  from user_role where name = 'PREMIUM_USER'));
